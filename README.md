@@ -1,0 +1,2 @@
+# fishfish
+python django project
